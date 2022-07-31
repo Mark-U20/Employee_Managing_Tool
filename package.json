@@ -22,6 +22,7 @@
   "homepage": "https://github.com/Mark-U20/Employee_Managing_Tool#readme",
   "dependencies": {
     "chalk-animation": "^2.0.2",
+    "console.table": "^0.10.0",
     "dotenv": "^16.0.1",
     "figlet": "^1.5.2",
     "inquirer": "^9.0.2",
