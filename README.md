@@ -38,6 +38,12 @@
     Light animations and useful displays of information with tables
 ## How to contribute
     Follow common practice code style guidelines found here: https://ckeditor.com/docs/ckeditor5/latest/framework/guides/contributing/code-style.html
+
+
+![](Untitled_%20Aug%207,%202022%207_19%20PM.gif)
+
+
+
     
 
 
